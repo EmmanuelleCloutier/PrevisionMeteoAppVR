@@ -5,10 +5,17 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/DemoScene.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
+  - enabled: 0
+    path: Assets/Scenes/WeatherScene.unity
+    guid: 0ca975981c303b34399d0d73af3eedc2
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8912a331050982948afe35ac469377d6, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6627f78a2916f6b46b9a3b067c03d6f5, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 618932c38f138a54f974143217b0f08f, type: 2}
