@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 8fc56946a1b593c4d8e3e0e94483338e, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -350,7 +350,7 @@ Transform:
   m_GameObject: {fileID: 1045451344}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.18, y: 1.56, z: -9.01}
+  m_LocalPosition: {x: 5.2, y: 1.56, z: -9.01}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -664,8 +664,8 @@ Transform:
   m_GameObject: {fileID: 1521865459}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.74835, y: -0.5, z: 6.05124}
-  m_LocalScale: {x: 20, y: 1, z: 20}
+  m_LocalPosition: {x: 6.99, y: -0.5, z: 1.21}
+  m_LocalScale: {x: 12.1710005, y: 1, z: 15.0026}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1721955272}
@@ -901,7 +901,7 @@ Transform:
   m_GameObject: {fileID: 2106491849}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.398, y: 2.481, z: 6.574}
+  m_LocalPosition: {x: 4.48, y: 2.481, z: 6.574}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -917,7 +917,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 2e77c6e655b38ef4192709540b5bf630, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.05
+      value: 4.42
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2e77c6e655b38ef4192709540b5bf630, type: 3}
       propertyPath: m_LocalPosition.y
