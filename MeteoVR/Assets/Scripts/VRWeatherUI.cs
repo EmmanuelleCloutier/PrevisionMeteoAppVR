@@ -11,7 +11,8 @@ public class VRWeatherUI : MonoBehaviour
     public TMP_Text cityText;
     public TMP_Text weatherText;
 
-    public string apiKey = "80c23f8c76ff1e86c6442aac90f07c7e"; 
+    public string apiKey = "a mettre la tienne pour test SURTOUT NE PAS PUSH SUR GITHUB PUBLIC!!"; 
+    //OPENWHEATHERAPP.COM
     public string city = "Chicoutimi";
     
     void Start()
