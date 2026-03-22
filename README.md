@@ -1,36 +1,39 @@
-# 🌤️ METEO APP VR
+# METEO APP VR
 
-## 👥 Auteurs
+## Auteurs
 - Emmanuelle Cloutier
 - Coralie Tremblay
 
-## 🛠️ Version Unity
+## Version Unity
 - 6000.3.5f
 
 ---
 
-## 🧠 Concept
+## Concept
 
-Le joueur est placé dans les nuages, debout sur une planche de bois, dans un environnement inspiré des rêves du subconscient.
+Le joueur est placé dans une chambre, ou il y a une laveuse, des plantes et des meubles
 
-L’ambiance représente des rêves qui ne font pas de sens, avec une atmosphère irréelle et immersive.
+Quand le player prend la plante, il peut voir la température de dehors
 
 ---
 
-## 🌦️ Fonctionnalités
+## Fonctionnalités
 
 - Intégration d’une API météo
-- Changement dynamique de l’ambiance selon la météo (ciel, lumière, environnement)
+- Son spatial de la laveuse
+- Son retour auditif quand player prend la plante
+- UI spatial montrant la météo sur la plante
+- FX attaché sur la plante quand on prend la prendre
 
 ---
 
-## 🎓 Tutoriel utilisé
+## Tutoriel utilisé
 
 - https://www.youtube.com/watch?v=lHzZRWtlzNM&t=121s
 
 ---
 
-## 📦 Packages Unity
+## Packages Unity
 
 - AI Navigation
 - Burst
@@ -55,8 +58,12 @@ L’ambiance représente des rêves qui ne font pas de sens, avec une atmosphèr
 
 ---
 
-## 🎨 Assets Packs
+## Assets Packs
 
-- Textures Cozy
-- Free Furnitures Stuff
-- Free Skybox Low Poly
+- Textures Cozy (Epic games Fab)
+- Free Furnitures Stuff (Epic games Fab)
+- Free Skybox Low Poly (Epic games Fab)
+- Furniture_Free (Epic games Fab)
+- Son de laveuse (Freesound Community)
+- Son de button (Sample scene unity)
+  
