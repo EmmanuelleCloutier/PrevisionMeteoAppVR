@@ -27,9 +27,9 @@ Quand le player prend la plante, il peut voir la température de dehors
 
 ---
 
-## Tutoriel utilisé
+## Vidéo Youtube
 
-- https://www.youtube.com/watch?v=lHzZRWtlzNM&t=121s
+
 
 ---
 
