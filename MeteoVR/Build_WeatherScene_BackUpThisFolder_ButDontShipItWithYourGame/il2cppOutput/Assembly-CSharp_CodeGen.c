@@ -7,29 +7,74 @@
 
 
 
+extern void GetCurrentWeatherInfo__ctor_m81AF7591CF7A9635209A9C8B913C871897FD92DF (void);
+extern void NewMonoBehaviourScript_Start_m3AEB44E196F409294FDF6484B549ABB295AD0AFC (void);
+extern void NewMonoBehaviourScript_Update_mA54E945ACEFE3BC597B6BD6C8AC9882B124A0563 (void);
+extern void NewMonoBehaviourScript__ctor_mC52B54CFF4703513FE2F0CFA60A5A6AD27ED5635 (void);
+extern void VRWeatherUI_Start_mD3C30EF9B16B6D71AB6A4203159253E76778577D (void);
+extern void VRWeatherUI_UpdateTime_m4CD6246648179167CD38A6C468E13375A3419EBC (void);
+extern void VRWeatherUI_FetchWeather_m74731A24BEFEC50D9AC05D4A8FFC3BC3EEC2AD8C (void);
+extern void VRWeatherUI__ctor_mE8CB60F5CBB32A02EBEFACC00457F7311F7DC729 (void);
+extern void U3CFetchWeatherU3Ed__8__ctor_mD2293831A9B2BFB116B9BFE8912CB64405276C90 (void);
+extern void U3CFetchWeatherU3Ed__8_System_IDisposable_Dispose_m00FB5214E31E2FE306DFAEA65ED4D9563BCAEF23 (void);
+extern void U3CFetchWeatherU3Ed__8_MoveNext_m3CAA72E97418FD2FA0968A484583377BC7D373FC (void);
+extern void U3CFetchWeatherU3Ed__8_U3CU3Em__Finally1_m53AAF78A2993A58890EBBE6E6C7E512D529425F7 (void);
+extern void U3CFetchWeatherU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m34FFA69CA1C1D81B19D0CB6E684EFD79418F5F9C (void);
+extern void U3CFetchWeatherU3Ed__8_System_Collections_IEnumerator_Reset_m3C8C28AE850B0389099EBF933AA5F48693FAD121 (void);
+extern void U3CFetchWeatherU3Ed__8_System_Collections_IEnumerator_get_Current_mBA0D66E920018C2D8257ECCDCFAEA5BDF5E102B0 (void);
 extern void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (void);
 extern void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
-static Il2CppMethodPointer s_methodPointers[4] = 
+static Il2CppMethodPointer s_methodPointers[19] = 
 {
+	GetCurrentWeatherInfo__ctor_m81AF7591CF7A9635209A9C8B913C871897FD92DF,
+	NewMonoBehaviourScript_Start_m3AEB44E196F409294FDF6484B549ABB295AD0AFC,
+	NewMonoBehaviourScript_Update_mA54E945ACEFE3BC597B6BD6C8AC9882B124A0563,
+	NewMonoBehaviourScript__ctor_mC52B54CFF4703513FE2F0CFA60A5A6AD27ED5635,
+	VRWeatherUI_Start_mD3C30EF9B16B6D71AB6A4203159253E76778577D,
+	VRWeatherUI_UpdateTime_m4CD6246648179167CD38A6C468E13375A3419EBC,
+	VRWeatherUI_FetchWeather_m74731A24BEFEC50D9AC05D4A8FFC3BC3EEC2AD8C,
+	VRWeatherUI__ctor_mE8CB60F5CBB32A02EBEFACC00457F7311F7DC729,
+	U3CFetchWeatherU3Ed__8__ctor_mD2293831A9B2BFB116B9BFE8912CB64405276C90,
+	U3CFetchWeatherU3Ed__8_System_IDisposable_Dispose_m00FB5214E31E2FE306DFAEA65ED4D9563BCAEF23,
+	U3CFetchWeatherU3Ed__8_MoveNext_m3CAA72E97418FD2FA0968A484583377BC7D373FC,
+	U3CFetchWeatherU3Ed__8_U3CU3Em__Finally1_m53AAF78A2993A58890EBBE6E6C7E512D529425F7,
+	U3CFetchWeatherU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m34FFA69CA1C1D81B19D0CB6E684EFD79418F5F9C,
+	U3CFetchWeatherU3Ed__8_System_Collections_IEnumerator_Reset_m3C8C28AE850B0389099EBF933AA5F48693FAD121,
+	U3CFetchWeatherU3Ed__8_System_Collections_IEnumerator_get_Current_mBA0D66E920018C2D8257ECCDCFAEA5BDF5E102B0,
 	Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6,
 	Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
 };
-static const int32_t s_InvokerIndices[4] = 
+static const int32_t s_InvokerIndices[19] = 
 {
-	15225,
-	15225,
-	26411,
-	15225,
+	16388,
+	16388,
+	16388,
+	16388,
+	16388,
+	16388,
+	16158,
+	16388,
+	12433,
+	16388,
+	15945,
+	16388,
+	16158,
+	16388,
+	16158,
+	16388,
+	16388,
+	28128,
+	16388,
 };
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	4,
+	19,
 	s_methodPointers,
 	0,
 	NULL,
