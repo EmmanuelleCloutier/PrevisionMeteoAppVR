@@ -11,7 +11,7 @@
 
 ## Concept
 
-Le joueur est placé dans une chambre, ou il y a une laveuse, des plantes et des meubles
+Le joueur est placé dans une chambre, où il y a une laveuse, des plantes et des meubles
 
 Quand le player prend la plante, il peut voir la température
 
@@ -23,7 +23,7 @@ Quand le player prend la plante, il peut voir la température
 - Son spatial de la laveuse
 - Son retour auditif quand player prend la plante
 - UI spatial montrant la météo sur la plante
-- FX attaché sur la plante quand on prend la prendre
+- FX attaché sur la plante quand on prend la plante
 
 ---
 
