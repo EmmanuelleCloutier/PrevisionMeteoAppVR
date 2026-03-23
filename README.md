@@ -13,7 +13,7 @@
 
 Le joueur est placé dans une chambre, ou il y a une laveuse, des plantes et des meubles
 
-Quand le player prend la plante, il peut voir la température de dehors
+Quand le player prend la plante, il peut voir la température
 
 ---
 
@@ -27,7 +27,7 @@ Quand le player prend la plante, il peut voir la température de dehors
 
 ---
 
-## Vidéo Démo
+## Vidéos Démos
 - vidéo desmonstrative de nos features : https://www.youtube.com/watch?v=Wmiua5U9yzw
 - vidéo desmonstrative fonctionnement éditeur : https://www.youtube.com/watch?v=9bOwCGjSa4k 
 
