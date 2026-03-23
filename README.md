@@ -28,8 +28,8 @@ Quand le player prend la plante, il peut voir la température de dehors
 ---
 
 ## Vidéo Démo
-- https://www.youtube.com/watch?v=Wmiua5U9yzw 
-
+- vidéo desmonstrative de nos features : https://www.youtube.com/watch?v=Wmiua5U9yzw
+- vidéo desmonstration foncitonnement éditeur : https://www.youtube.com/watch?v=9bOwCGjSa4k 
 
 ---
 
